@@ -1,4 +1,4 @@
-# BibliotecaApp
+# Livros à Mão
 
 An Android app written in Java to browse libraries and their books, request (check out) books and review them. It talks to the course's Library REST API through Retrofit.
 
@@ -26,7 +26,7 @@ The app consumes the course's Library API used in the course. The Retrofit clien
 Prerequisites: Android Studio and an emulator or device running Android 5.0 (API 21) or later.
 
 ```bash
-git clone https://github.com/AndreFon04/BibliotecaApp-dssmv_2023_2DB.git
+git clone https://github.com/AndreFon04/Livros-a-Mao-dssmv_2023_2DB.git
 ```
 Open the project in Android Studio, let Gradle sync, and run the `app` module.
 
