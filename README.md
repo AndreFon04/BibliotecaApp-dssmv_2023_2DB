@@ -5,7 +5,7 @@ An Android app written in Java to browse libraries and their books, request (che
 Developed in **2023** for the **DSSMV** course of the BSc in Telecommunications and Informatics Engineering at **ISEP** (Instituto Superior de Engenharia do Porto) by **André Fonseca** and **Diogo Martins**.
 
 ### Features
-- Choose a library from the list provided by the API
+- Choose a library from the list provided
 - Browse that library's books and open each book's details (title, authors, publication date, number of pages, description)
 - Identify yourself with a user ID (there is no password) to unlock the actions below
 - Request (check out) a book, with a confirmation step
