@@ -20,7 +20,7 @@ Developed in **2023** for the **DSSMV** course of the BSc in Telecommunications 
 - Layered structure: UI, Service, Listeners, Model and Helper
 
 ### Web service
-The app consumes the **TMDB API** used in the course. The Retrofit clients, and the base URLs they use, are created in the activities. If the service is no longer available, the app will not be able to load data.
+The app consumes the course's Library API used in the course. The Retrofit clients, and the base URLs they use, are created in the activities. If the service is no longer available, the app will not be able to load data.
 
 ### Getting started
 Prerequisites: Android Studio and an emulator or device running Android 5.0 (API 21) or later.
